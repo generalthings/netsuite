@@ -16,6 +16,7 @@ require 'netsuite/actions/initialize'
 
 # RECORDS
 require 'netsuite/records/customer'
+require 'netsuite/records/cineform'
 require 'netsuite/records/customer_addressbook_list'
 require 'netsuite/records/invoice'
 require 'netsuite/records/record_ref'
